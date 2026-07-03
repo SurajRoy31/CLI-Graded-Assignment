@@ -1,0 +1,3 @@
+A symbolic link named symlink.txt was created pointing to original.txt.
+
+After deleting original.txt, the symbolic link became broken, as demonstrated in the screenshots and described in the report.

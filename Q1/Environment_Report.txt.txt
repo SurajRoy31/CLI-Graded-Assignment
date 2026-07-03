@@ -1,0 +1,25 @@
+Linux Environment Verification Report
+
+1.Username and Groups :
+uid=1000(suraj2001roy) gid=1000(suraj2001roy) groups=1000(suraj2001roy),4(adm),27(sudo),996(docker)
+
+2.Current Shell :
+/bin/bash
+
+3.Current Working Directory:
+/home/suraj2001roy/CLI-Graded-Assignment/Q1
+
+4.File and Directories:
+total 8
+drwxrwxr-x 2 suraj2001roy suraj2001roy 4096 Jul  2 08:11 .
+drwxrwxr-x 7 suraj2001roy suraj2001roy 4096 Jul  1 17:23 ..
+
+5.Network Connectivity Verification :
+PING google.com (142.251.12.102): 56(84) bytes of data.
+64 bytes from 142.251.12.102: icmp_seq=1 ttl=117 time=0.854 ms
+64 bytes from 142.251.12.102: icmp_seq=2 ttl=117 time=0.484 ms
+64 bytes from 142.251.12.102: icmp_seq=3 ttl=117 time=0.590 ms
+64 bytes from 142.251.12.102: icmp_seq=4 ttl=117 time=0.540 ms
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3060ms
+rtt min/avg/max/mdev = 0.484/0.617/0.854/0.141 ms

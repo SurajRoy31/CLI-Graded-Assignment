@@ -1,0 +1,26 @@
+Secure Project Workspace Report
+
+1.Directory Structure Created
+
+ProjectWorkspace:
+Documents Reports
+
+ProjectWorkspace/Documents:
+
+ProjectWorkspace/Reports:
+
+2.Permission Before Modification
+
+Default permissions were assigned automatically by the system when the directory was created.
+
+3.Permissions After Modification:
+
+Permission changed using :
+
+chmod 700 Projectworkspace
+
+Result:
+
+Owner : Read , Write , Execute
+Group : No Permission
+Others : No Permission
